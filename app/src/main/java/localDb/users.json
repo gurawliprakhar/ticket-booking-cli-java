@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "00001",
+    "name": "Prakhar Tripathi",
+    "hashedPassword": "*Pt560@##",
+    "tickets_booked": [
+      {
+        "source": "Amethi",
+        "destination": "Lucknow",
+        "date_of_travel": "2025-07-09T15:22:00Z",
+        "train": {
+          "train_id": "bacs",
+          "train_no": "22200",
+          "seats": [
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0]
+          ],
+          "stations": {
+            "Gauriganj": "16:00:00",
+            "Bachrawa": "16:30:00",
+            "Raebareli": "16:50:00"
+          }
+        }
+      }
+    ]
+  }
+]
