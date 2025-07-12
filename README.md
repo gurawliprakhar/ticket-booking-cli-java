@@ -1,4 +1,4 @@
-Here's your complete, polished `README.md` for the **Java CLI Ticket Booking System** — tailored for GitHub and resume visibility:
+
 
 ---
 
@@ -109,13 +109,6 @@ java App
 
 ---
 
-## 📄 Resume Highlights
-
-* ✅ Built a complete Java project with CLI & local DB
-* ✅ Implemented secure login using BCrypt
-* ✅ Designed modular architecture using OOP
-* ✅ Used JSON files to simulate database operations
-* ✅ Wrote clean, testable, maintainable code
 
 ---
 
